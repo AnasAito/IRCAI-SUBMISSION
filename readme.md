@@ -1,6 +1,6 @@
 # Neptune-Warriors Water Mapping Solution 🌊💻
 
-## University: UM6P
+## University: UM6P/College of computing
 ## Team Name: Neptune-Warriors
 ## Project nominator: Karima Echihabi
 ## Team Members: Anas Ait Aomar, Manal Cherkaoui, Yassir Fri, Mahmoud Maftah, Ayman Youss
