@@ -31,6 +31,6 @@ Our AI solution is aligned with the objective of promoting water sustainability,
 
 ---
 
-For a demo of our solution and access to sample village images aggregated by our pipeline, please visit [this link]([https://example.com/demo-data](https://drive.google.com/file/d/13xGuhJgEZSI2lDquKx1J4xV6ro7ZYbMi/view?usp=sharing)). 🌐📸
+For a demo of our solution and access to sample village images aggregated by our pipeline, please visit [this link](https://drive.google.com/file/d/13xGuhJgEZSI2lDquKx1J4xV6ro7ZYbMi/view?usp=sharing). 🌐📸
 
 **Note:** The code for our solution is available in this repository. 📂
