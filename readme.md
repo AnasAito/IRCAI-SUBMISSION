@@ -2,6 +2,7 @@
 
 ## University: UM6P
 ## Team Name: Neptune-Warriors
+## Project nominator: Karima Echihabi
 ## Team Members: Anas Ait Aomar, Manal Cherkaoui, Yassir Fri, Mahmoud Maftah, Ayman Youss
 
 ### Overview 📝
