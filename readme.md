@@ -1,4 +1,4 @@
-# Neptune-Warriors Water Mapping Solution 🌊💻
+# Aquascore 🌊💻
 
 ## University: UM6P/College of Computing
 ## Team Name: Neptune-Warriors
